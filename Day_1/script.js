@@ -13,9 +13,9 @@
 
 // let a = 5;
 
-// let b= 2;
+// let b = 2;
 
-// let c= 3;
+// let c = 3;
 
 // console.log(a);
 // console.log(b);
@@ -77,7 +77,6 @@
 // console.log(!happy);
 // console.log(!!happy);
 
-
 // console.log(happy && fun);
 
 // let a = undefined;
@@ -93,14 +92,12 @@
 // let a = 1;
 // let b = 2;
 
-
 // console.log(!a == b);
 // console.log(a != b);
 // console.log(a < b); //true
 // console.log(a > b); //true
 // console.log(a >= b); //true
 // console.log(a <= b); //true
-
 
 // let a = 'a'; //65
 // let b = 'b'; //66
@@ -137,22 +134,21 @@
 // function sayHi(){
 //     console.log("Hi");
 //     console.log("Bye");
-    
+
 // }
 
 // sayHi()
 
 // function printName() {
 //     console.log("Neha Sharma");
-    
+
 // }
 
 // printName()
 
-
 // function sum(a,b){
 //     console.log(a+b);
-    
+
 // }
 
 // let x = 1;
@@ -164,7 +160,7 @@
 // function onePersonPrintName(name, age){
 //     console.log(name);
 //     console.log(age);
-    
+
 // }
 
 // onePersonPrintName("Neha Sharma")
@@ -178,18 +174,12 @@
 // let sum2 = sum(2, s)
 // console.log(sum2);
 
-function name(name){
-    return "hello" + name
+function name(name) {
+  return "hello" + name;
 }
 
 let s = name("neha");
 console.log(s);
 
-
-
-
 // 13 variable comparison (again practice)
 //  14 garbage collection (again practice )
-
-
-
